@@ -15,5 +15,7 @@ List of all documents on which I am an author.
 
 - [Integrating stochastic discrete constraints in MPC. Application to Home Energy Management System](https://hal.archives-ouvertes.fr/hal-03367535)
 
+- [Decentralized optimal management of a large-scale EV fleet: Optimality and computational complexity comparison between an adaptive MAS and MILP](https://www.sciencedirect.com/science/article/abs/pii/S0142061522008572?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=269759329&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM325336&utm_medium=email&utm_source=AC_)
+
 ### Thesis
 - [Design of Resilient Controllers for Buildings Energy Management](https://www.theses.fr/2021CSUP0003)
